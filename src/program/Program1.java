@@ -27,5 +27,7 @@ public class Program1 {
         divisibleBy3contains5(5);
         System.out.println("Test 3");
         divisibleBy3contains5(51);
+        System.out.println("Test 4");
+        divisibleBy3contains5(552);
     }
 }
